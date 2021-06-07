@@ -10,7 +10,7 @@
 
 <hr>
 
-  My Linkedin: [Paulo Victor](https://www.linkedin.com/in/paulo-victor-2406891a7/)
+ ## My Linkedin: [Paulo Victor](https://www.linkedin.com/in/paulo-victor-2406891a7/)
 
 <hr>
 
