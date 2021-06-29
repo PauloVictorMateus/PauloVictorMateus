@@ -3,7 +3,7 @@
 # My name is Paulo Victor
 <hr>
 
-## Front-End Developer 💻
+## FullStack Developer 💻
   
   * Passionate about technology ❤️ 
   * Always searching for new technologies 🤓
